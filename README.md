@@ -4,4 +4,6 @@
 
 ---
 ### Main window application 
-![server](https://github.com/Araik1/AndroidMusicPlayer/tree/master/imgReadme/mainWindow.png)
+![server](https://github.com/Araik1/AndroidMusicPlayer/blob/master/imgReadme/mainWindow.png)
+
+
